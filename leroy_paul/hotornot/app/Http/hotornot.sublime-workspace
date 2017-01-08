@@ -1,0 +1,281 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"aut",
+				"auth"
+			],
+			[
+				"Mi",
+				"middleware"
+			],
+			[
+				"ROUTE",
+				"Route"
+			],
+			[
+				"reg",
+				"registration"
+			],
+			[
+				"Registers",
+				"RegisterUsers"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Notes",
+				"NotesController"
+			],
+			[
+				"not",
+				"notes"
+			],
+			[
+				"car",
+				"cards"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"rout",
+				"Route"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/leroy_paul/hotornot/app",
+		"/C/xampp/htdocs/leroy_paul/hotornot/app/Console",
+		"/C/xampp/htdocs/leroy_paul/hotornot/app/Http",
+		"/C/xampp/htdocs/leroy_paul/hotornot/app/Http/Controllers",
+		"/C/xampp/htdocs/leroy_paul/hotornot/resources",
+		"/C/xampp/htdocs/leroy_paul/hotornot/resources/views",
+		"/C/xampp/htdocs/leroy_paul/hotornot/routes",
+		"/C/xampp/htdocs/leroy_paul/hotornot/storage"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/leroy_paul/hotornot/app/Http/Kernel.php",
+		"/C/xampp/htdocs/leroy_paul/hotornot/resources/views/layout.blade.php",
+		"/C/xampp/htdocs/leroy_paul/hotornot/resources/views/home.blade.php",
+		"/C/xampp/htdocs/leroy_paul/hotornot/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/leroy_paul/hotornot/routes/web.php",
+		"/C/xampp/htdocs/leroy_paul/hotornot/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/leroy_paul/hotornot/app/Console/Kernel.php",
+		"/C/xampp/htdocs/leroy_paul/hotornot/.env",
+		"/C/xampp/htdocs/leroy_paul/hotornot/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/leroy_paul/hotornot/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/leroy_paul/hotornot/resources/views/layouts/app.blade.php",
+		"/C/Users/paull/Desktop/school2016-2017/services/service-container/app/Http/Controllers/PostsController.php",
+		"/C/Users/paull/Desktop/school2016-2017/services/service-container/routes/web.php",
+		"/C/Users/paull/Desktop/school2016-2017/services/session-flash-lesson/resources/views/flash.blade.php",
+		"/C/Users/paull/Desktop/school2016-2017/services/session-flash-lesson/resources/views/welcome.blade.php",
+		"/C/Users/paull/Desktop/school2016-2017/services/session-flash-lesson/composer.json",
+		"/C/Users/paull/Desktop/school2016-2017/services/session-flash-lesson/app/helpers.php",
+		"/C/Users/paull/Desktop/school2016-2017/services/session-flash-lesson/routes/web.php",
+		"/C/Users/paull/Desktop/school2016-2017/services/validation_project/routes/web.php",
+		"/C/Users/paull/Desktop/school2016-2017/services/validation_project/config/mail.php",
+		"/C/Users/paull/Desktop/school2016-2017/services/validation_project/app/Http/Controllers/HomeController.php",
+		"/C/Users/paull/Desktop/school2016-2017/services/validation_project/app/Http/Kernel.php",
+		"/C/Users/paull/Desktop/school2016-2017/services/validation_project/config/database.php",
+		"/C/Users/paull/Desktop/school2016-2017/services/validation_project/.env",
+		"/C/Users/paull/Desktop/school2016-2017/services/validation_project/app/Http/Middleware/MustBeAdministrator.php",
+		"/C/Users/paull/project/app/Http/Controllers/NotesController.php",
+		"/C/Users/paull/project/resources/views/cards/show.blade.php",
+		"/C/Users/paull/project/app/Http/Controllers/CardsController.php",
+		"/C/Users/paull/project/app/Note.php",
+		"/C/Users/paull/project/app/Card.php",
+		"/C/Users/paull/project/app/Http/Controllers/Controller.php",
+		"/C/Users/paull/project/database/migrations/2016_12_05_150947_create_notes_table.php",
+		"/C/Users/paull/project/resources/views/notes/edit.blade.php",
+		"/C/Users/paull/project/routes/web.php",
+		"/C/Users/paull/project/database/migrations/2016_12_07_164249_create_users_table.php",
+		"/C/Users/paull/project/resources/views/cards/index.blade.php",
+		"/C/Users/paull/project/resources/views/layout.blade.php",
+		"/C/Users/paull/project/public/css/style.css",
+		"/C/Users/paull/project/public/css/app.css",
+		"/C/Users/paull/project/resources/views/welcome.blade.php",
+		"/C/Users/paull/project/database/migrations/2016_12_05_132016_create_cards_table.php",
+		"/C/Users/paull/project/config/database.php",
+		"/C/Users/paull/project/.env",
+		"/C/Users/paull/project/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/Users/paull/project/resources/views/cards/index.php",
+		"/C/Users/paull/project/resources/views/pages/about.blade.php",
+		"/C/Users/paull/project/resources/views/index.blade.php",
+		"/C/Users/paull/project/resources/views/about.blade.php",
+		"/C/Users/paull/project/app/Http/Controllers/PagesController.php",
+		"/C/Users/paull/project/package.json",
+		"/C/Users/paull/project/resources/assets/sass/app.scss",
+		"/C/Users/paull/project/gulpfile.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"css"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hotornot.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 634.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
